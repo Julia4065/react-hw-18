@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-hw-18/static/css/main.a9a73e90.chunk.css",
+    "main.js": "/react-hw-18/static/js/main.1958f4f2.chunk.js",
+    "main.js.map": "/react-hw-18/static/js/main.1958f4f2.chunk.js.map",
+    "runtime-main.js": "/react-hw-18/static/js/runtime-main.ce96c404.js",
+    "runtime-main.js.map": "/react-hw-18/static/js/runtime-main.ce96c404.js.map",
+    "static/js/2.b417630a.chunk.js": "/react-hw-18/static/js/2.b417630a.chunk.js",
+    "static/js/2.b417630a.chunk.js.map": "/react-hw-18/static/js/2.b417630a.chunk.js.map",
+    "static/js/3.0ec3a0e2.chunk.js": "/react-hw-18/static/js/3.0ec3a0e2.chunk.js",
+    "static/js/3.0ec3a0e2.chunk.js.map": "/react-hw-18/static/js/3.0ec3a0e2.chunk.js.map",
+    "index.html": "/react-hw-18/index.html",
+    "static/css/main.a9a73e90.chunk.css.map": "/react-hw-18/static/css/main.a9a73e90.chunk.css.map",
+    "static/js/2.b417630a.chunk.js.LICENSE.txt": "/react-hw-18/static/js/2.b417630a.chunk.js.LICENSE.txt",
+    "static/media/404_Error.667c883a.jpg": "/react-hw-18/static/media/404_Error.667c883a.jpg",
+    "static/media/img_lights.84bc44f4.jpg": "/react-hw-18/static/media/img_lights.84bc44f4.jpg",
+    "static/media/iron-man-big-pict.7371e7d7.jpg": "/react-hw-18/static/media/iron-man-big-pict.7371e7d7.jpg",
+    "static/media/iron-man.ea004605.jpg": "/react-hw-18/static/media/iron-man.ea004605.jpg",
+    "static/media/logo.6ce24c58.svg": "/react-hw-18/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce96c404.js",
+    "static/js/2.b417630a.chunk.js",
+    "static/css/main.a9a73e90.chunk.css",
+    "static/js/main.1958f4f2.chunk.js"
+  ]
+}
