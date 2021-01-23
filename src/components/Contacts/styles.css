@@ -1,0 +1,51 @@
+.test {
+    background-color: rgb(173, 176, 212);
+    height: 70px;
+    width: 500px;
+    border: 6px solid grey;
+    align-items: center;
+    text-align: center;
+    display: flex;
+    padding: 10px 10px 10px 10px;
+    margin: auto;
+    text-align: left;
+    position: relative;
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.input-filter {
+    margin: auto;
+}
+
+#firstName, #lastName {
+    margin-left: 10px;
+}
+
+#phone {
+    margin-left: 30px;
+}
+
+.contact-icon-img {
+    width: 50px;
+    height: 50px;
+    display: inline;
+}
+
+.gender-img {
+    width: 25px;
+    height: 25px;
+    display: inline;
+    margin-left: 40px;
+}
+
+.checkboxes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.all-filters {
+    width: 500px;
+    margin: 0 auto;
+}
